@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bach Mai Hospital",
+    "city": "Ha Noi",
+    "price": 500000
+  },
+  {
+    "name": "Cho Ray Hospital",
+    "city": "TP HCM",
+    "price": 600000
+  },
+  {
+    "name": "Da Nang Hospital",
+    "city": "Da Nang",
+    "price": 450000
+  },
+  {
+    "name": "Gia Dinh Hospital",
+    "city": "TP HCM",
+    "price": 480000
+  },
+  {
+    "name": "Hue Central Hospital",
+    "city": "Hue",
+    "price": 350000
+  },
+  {
+    "name": "Tu Du Hospital",
+    "city": "TP HCM",
+    "price": 400000
+  },
+  {
+    "name": "Viet Duc Hospital",
+    "city": "Ha Noi",
+    "price": 550000
+  }
+]

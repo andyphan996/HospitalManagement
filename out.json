@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bach Mai Hospital",
+    "city": "Ha Noi",
+    "price": 500000
+  },
+  {
+    "name": "Viet Duc Hospital",
+    "city": "Ha Noi",
+    "price": 550000
+  },
+  {
+    "name": "Saint Paul Hospital",
+    "city": "Ha Noi",
+    "price": 420000
+  },
+  {
+    "name": "108 Military Central Hospital",
+    "city": "Ha Noi",
+    "price": 700000
+  },
+  {
+    "name": "Vinmec International",
+    "city": "Ha Noi",
+    "price": 1500000
+  },
+  {
+    "name": "National Children Hospital",
+    "city": "Ha Noi",
+    "price": 320000
+  },
+  {
+    "name": "K Hospital",
+    "city": "Ha Noi",
+    "price": 450000
+  },
+  {
+    "name": "Thanh Nhan Hospital",
+    "city": "Ha Noi",
+    "price": 390000
+  }
+]

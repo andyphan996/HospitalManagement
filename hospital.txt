@@ -1,0 +1,30 @@
+Bach Mai Hospital,Ha Noi,500000
+Cho Ray Hospital,TP HCM,600000
+Da Nang General Hospital,Da Nang,450000
+Viet Duc Hospital,Ha Noi,550000
+Tu Du Hospital,TP HCM,400000
+Hue Central Hospital,Hue,350000
+Gia Dinh Hospital,TP HCM,480000
+Saint Paul Hospital,Ha Noi,420000
+108 Military Central Hospital,Ha Noi,700000
+Can Tho Central Hospital,Can Tho,380000
+Vinmec International,Ha Noi,1500000
+Vinmec Central Park,TP HCM,1600000
+FV Hospital,TP HCM,2000000
+Hanh Phuc Hospital,Binh Duong,1200000
+Binh Dan Hospital,TP HCM,520000
+Nhi Dong 1 Hospital,TP HCM,300000
+Nhi Dong 2 Hospital,TP HCM,310000
+National Children Hospital,Ha Noi,320000
+K Hospital,Ha Noi,450000
+Tu Du Obstetric Hospital,TP HCM,380000
+Viet Tiep Hospital,Hai Phong,400000
+Thanh Nhan Hospital,Ha Noi,390000
+Dong Nai General Hospital,Dong Nai,370000
+Ba Ria Hospital,Vung Tau,360000
+Thai Nguyen Hospital,Thai Nguyen,340000
+Nghe An General Hospital,Vinh,350000
+Quang Nam General Hospital,Tam Ky,330000
+Khanh Hoa General Hospital,Nha Trang,380000
+Da Lat General Hospital,Da Lat,360000
+Phu Tho General Hospital,Viet Tri,350000
