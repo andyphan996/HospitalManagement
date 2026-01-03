@@ -65,7 +65,7 @@ void out_json(vector<Hospital> list, string filename) {
 }
 
 
-// --- Các hàm Sort của bạn ---
+// Hàm sắp xếp theo các tiêu chí
 void sort_by_name_inc(vector<Hospital> &a) {
     sort(a.begin(), a.end(), [](Hospital a, Hospital b) {
          return a.name < b.name;
@@ -111,7 +111,6 @@ void print_by_city(const vector<Hospital> &a, string city) {
 
 }
 
-// In ra console
 void xuat_console(vector<Hospital> &a) {
     for (auto i : a) {
         cout << left << setw(30) << i.name << setw(20) << i.address << i.price << endl;

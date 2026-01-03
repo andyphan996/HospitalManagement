@@ -1,8 +1,1 @@
-Bach Mai Hospital | 500000
-Viet Duc Hospital | 550000
-Saint Paul Hospital | 420000
-108 Military Central Hospital | 700000
-Vinmec International | 1500000
-National Children Hospital | 320000
-K Hospital | 450000
-Thanh Nhan Hospital | 390000
+Hanh Phuc Hospital | 1200000
